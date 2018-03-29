@@ -1,7 +1,10 @@
 # MoBank
 MoBank es una plataforma bancaria para jóvenes que busca recordar los pagos pendientes que tienes con tus amigos, así no volverás a olvidar transferir y pasar malos ratos, como valor agregado,  simplifica el proceso eliminando la tarjeta de claves.
 
-![](/img/ElMo.png)
+![elmo](https://user-images.githubusercontent.com/32286015/38063004-65230fb0-32cd-11e8-8267-af13f0d1844f.png)
+
+## Desarrollado para 
+[Banco del País & Laboratoria](https://marvelapp.com/81d744h)
 
 ## Entrevistas
 
@@ -89,6 +92,3 @@ Luego del test se obtuvieron distintos feedback para mejorarlo.
 
 En base al feedback obtenido se realiza el prototipo. Yolanda realiza los prototipos en blanco y negro y luego les doy estilo, color y agrego ilustraciones.
 
-**Link**
-
-https://marvelapp.com/81d744h
