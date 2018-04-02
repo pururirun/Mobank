@@ -4,7 +4,7 @@ MoBank es una plataforma bancaria para jóvenes que busca recordar los pagos pen
 ![elmo](https://user-images.githubusercontent.com/32286015/38063004-65230fb0-32cd-11e8-8267-af13f0d1844f.png)
 
 ## Desarrollado para 
-[Banco del País & Laboratoria](https://marvelapp.com/81d744h)
+[Laboratoria, 2018](https://marvelapp.com/81d744h)
 
 ## Entrevistas
 
